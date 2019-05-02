@@ -6,3 +6,4 @@ Implementation of Probe selection for imputation (PSI) in R
   <!-- badges: start -->
   [![Travis build status](https://travis-ci.org/psychemistz/rpsi.svg?branch=master)](https://travis-ci.org/psychemistz/rpsi)
   <!-- badges: end -->
+
